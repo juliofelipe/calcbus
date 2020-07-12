@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="CalcBus.exe" version="1.0.0.0" publicKeyToken="e926b3e529de7f82" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="calcbus.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="CalcBus" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="CalcBus.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Windows.Controls.Ribbon" version="4.0.0.0" publicKeyToken="B77A5C561934E089" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CalcBus.exe" size="101376">
+      <assemblyIdentity name="CalcBus" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>DDa+iK5UlBZRFoPXBYp9kpT08Emde9InPdbTYACXjVw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="System.Data.SqlServerCe.dll" size="470240">
+      <assemblyIdentity name="System.Data.SqlServerCe" version="4.0.0.0" publicKeyToken="89845DCD8080CC91" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>fzAjKmnGW7OJ3tIr3/LRns9mJFYblHB1es3oCxTi/k0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WPF.MDI.dll" size="257536">
+      <assemblyIdentity name="WPF.MDI" version="1.1.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>MuY/0SmgROxJTTpThNvGgFO5xsSse3LTgq9ZVlk7AT8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="CalcBus.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6N7MliNbVJSIAIPrecIshMbZ7zEoKLr5SQvud4LDUOw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="calcbus.ico" size="9462">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>VpXXqEy1bYohk0XBmcZEy/2SSMVY3VqZ4KelwmsB8Jc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Database\DBCalcBus.sdf" size="196608" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>tLP1iEMC3egwndav7+oSaj8YWMPHX9xwURK2j71CglQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="lib\WPF.MDI.dll" size="257536">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>MuY/0SmgROxJTTpThNvGgFO5xsSse3LTgq9ZVlk7AT8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=JulioCesar-MSI\Julio Cesar" issuerKeyHash="8c926673bdb079149bb462c4dae5f515d1244ba0" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>qPzlRoKhRh8cPxR5ZsSTuTKaes8vy+BgwGUFJxG4XKY=</DigestValue></Reference></SignedInfo><SignatureValue>Mjsnl+wVTLYYQaIEM4VY3wnjWjH/P9A+CDceR1mAehA6ZXfHeFfGM2ZXsFXPBySX+iw1nMr5Ad8wuY3OXkJd8bH3LQ3PdVv58vIuVnL+hG6G2aTRXwz+Xp2fzR70PjR/Y/t/nXiE7ZHDPjSOTYIph2FFbQvVRWXK+JkJfaiUQDs=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>zVI6avqbVW8q82n/sPJc25xs49FDfElzqnUAsp1jFNb3063ljAP/4V4dN1nPOpITb30YPiiH2iU1XBb139fenBbhJbdXBMARxfwppPxEOxM0VZa70gNsHcHuW/yqXCvyDMZePTYRlXwYXFhPfU3P8mrEF/551uSqtav8uhzKiIk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="a65cb811270565c060e0cb2fcf7a9a32b993c46679143f1c1f46a18246e5fca8" Description="" Url=""><as:assemblyIdentity name="CalcBus.exe" version="1.0.0.0" publicKeyToken="e926b3e529de7f82" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=JulioCesar-MSI\Julio Cesar</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>5dAFiync1WtOVKENrI+TfLKn/4mj1QRRcresEzz9Zho=</DigestValue></Reference></SignedInfo><SignatureValue>yNfD4r2aFzQ36MpBegJRDcYZnUueptj0dtWpo3DR/uY448NohPwGMpntGtBx1e2oECyouXtx+NPw8ExTE2FhUrlAlDIpQ4JlKUFdt5DXRRtrKm1zzfavn6NK3YulPCPEiF7IuLc8F+D8Yx6NfPExUaVzdp3ZRa7fuMF7R7rU15Y=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>zVI6avqbVW8q82n/sPJc25xs49FDfElzqnUAsp1jFNb3063ljAP/4V4dN1nPOpITb30YPiiH2iU1XBb139fenBbhJbdXBMARxfwppPxEOxM0VZa70gNsHcHuW/yqXCvyDMZePTYRlXwYXFhPfU3P8mrEF/551uSqtav8uhzKiIk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICATCCAWqgAwIBAgIQIwWIhJe5yblHU7QNJaLcnzANBgkqhkiG9w0BAQsFADA/MT0wOwYDVQQDHjQASgB1AGwAaQBvAEMAZQBzAGEAcgAtAE0AUwBJAFwASgB1AGwAaQBvACAAQwBlAHMAYQByMB4XDTE2MDcxNDIzMTA0OFoXDTE3MDcxNTA1MTA0OFowPzE9MDsGA1UEAx40AEoAdQBsAGkAbwBDAGUAcwBhAHIALQBNAFMASQBcAEoAdQBsAGkAbwAgAEMAZQBzAGEAcjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAzVI6avqbVW8q82n/sPJc25xs49FDfElzqnUAsp1jFNb3063ljAP/4V4dN1nPOpITb30YPiiH2iU1XBb139fenBbhJbdXBMARxfwppPxEOxM0VZa70gNsHcHuW/yqXCvyDMZePTYRlXwYXFhPfU3P8mrEF/551uSqtav8uhzKiIkCAwEAATANBgkqhkiG9w0BAQsFAAOBgQB4NVyAqeRnBioSTh+JRmIlP6LZDPP8ibP0X0C0yWnVnFAnNuGGwBVdsrwEW6ej1eIXfDa2N17XGx7t3qSKRIgzbeZae/s2IvRx462z6PRNuQv4QI5KbpbLLKI7beEgXHgAZHlcH7MetRGsd9GJ3xWQJ4Y92t3ueI8RA1mRjUQQcw==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

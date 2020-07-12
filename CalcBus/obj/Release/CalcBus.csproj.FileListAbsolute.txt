@@ -1,0 +1,149 @@
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\bin\Release\CalcBus.exe.config
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\bin\Release\Database\DBCalcBus.sdf
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\bin\Release\CalcBus.exe.manifest
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\bin\Release\CalcBus.application
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\bin\Release\CalcBus.exe
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\bin\Release\CalcBus.pdb
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\bin\Release\WPF.MDI.dll
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\obj\Release\Ampacidade.g.cs
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\obj\Release\BarramentoFlexivel.g.cs
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\obj\Release\MainWindow.g.cs
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\obj\Release\Sobre.g.cs
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\obj\Release\App.g.cs
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\obj\Release\CalcBus_Content.g.cs
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\obj\Release\CalcBus_MarkupCompile.cache
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\obj\Release\CalcBus_MarkupCompile.lref
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\obj\Release\Ampacidade.baml
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\obj\Release\BarramentoFlexivel.baml
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\obj\Release\MainWindow.baml
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\obj\Release\Sobre.baml
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\obj\Release\CalcBus.g.resources
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\obj\Release\CalcBus.Properties.Resources.resources
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\obj\Release\CalcBus.csproj.GenerateResource.Cache
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\obj\Release\CalcBus.exe.manifest
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\obj\Release\CalcBus.application
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\obj\Release\CalcBus.exe
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\obj\Release\CalcBus.pdb
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\obj\Release\CalcBus.csprojResolveAssemblyReference.cache
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\bin\Release\Database\DBCalcBus.sdf
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\bin\Release\CalcBus.exe.config
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\bin\Release\CalcBus.exe.manifest
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\bin\Release\CalcBus.application
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\bin\Release\CalcBus.exe
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\bin\Release\CalcBus.pdb
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\obj\Release\CalcBus.csprojResolveAssemblyReference.cache
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\obj\Release\Flexivel.g.cs
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\obj\Release\MainWindow.g.cs
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\obj\Release\Sobre.g.cs
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\obj\Release\Temp.g.cs
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\obj\Release\App.g.cs
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\obj\Release\CalcBus_Content.g.cs
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\obj\Release\CalcBus_MarkupCompile.cache
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\obj\Release\CalcBus_MarkupCompile.lref
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\obj\Release\Flexivel.baml
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\obj\Release\MainWindow.baml
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\obj\Release\Sobre.baml
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\obj\Release\Temp.baml
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\obj\Release\CalcBus.g.resources
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\obj\Release\CalcBus.Properties.Resources.resources
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\obj\Release\CalcBus.csproj.GenerateResource.Cache
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\obj\Release\CalcBus.exe.manifest
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\obj\Release\CalcBus.application
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\obj\Release\CalcBus.exe
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\obj\Release\CalcBus.pdb
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\bin\Release\WPFToolkit.Extended.dll
+C:\Users\julio\OneDrive\Documents\CalcBus\CalcBus\bin\Release\CalcBus.exe.config
+C:\Users\julio\OneDrive\Documents\CalcBus\CalcBus\obj\Release\CalcBus.exe
+C:\Users\julio\OneDrive\Documents\CalcBus\CalcBus\obj\Release\CalcBus.pdb
+C:\Users\julio\OneDrive\Documents\CalcBus\CalcBus\bin\Release\Database\DBCalcBus.sdf
+C:\Users\julio\OneDrive\Documents\CalcBus\CalcBus\bin\Release\CalcBus.exe.manifest
+C:\Users\julio\OneDrive\Documents\CalcBus\CalcBus\bin\Release\CalcBus.application
+C:\Users\julio\OneDrive\Documents\CalcBus\CalcBus\bin\Release\CalcBus.exe
+C:\Users\julio\OneDrive\Documents\CalcBus\CalcBus\bin\Release\CalcBus.pdb
+C:\Users\julio\OneDrive\Documents\CalcBus\CalcBus\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\julio\OneDrive\Documents\CalcBus\CalcBus\bin\Release\WPFToolkit.Extended.dll
+C:\Users\julio\OneDrive\Documents\CalcBus\CalcBus\obj\Release\CalcBus.csprojResolveAssemblyReference.cache
+C:\Users\julio\OneDrive\Documents\CalcBus\CalcBus\obj\Release\Flexivel.g.cs
+C:\Users\julio\OneDrive\Documents\CalcBus\CalcBus\obj\Release\MainWindow.g.cs
+C:\Users\julio\OneDrive\Documents\CalcBus\CalcBus\obj\Release\Sobre.g.cs
+C:\Users\julio\OneDrive\Documents\CalcBus\CalcBus\obj\Release\Temp.g.cs
+C:\Users\julio\OneDrive\Documents\CalcBus\CalcBus\obj\Release\App.g.cs
+C:\Users\julio\OneDrive\Documents\CalcBus\CalcBus\obj\Release\CalcBus_Content.g.cs
+C:\Users\julio\OneDrive\Documents\CalcBus\CalcBus\obj\Release\CalcBus_MarkupCompile.cache
+C:\Users\julio\OneDrive\Documents\CalcBus\CalcBus\obj\Release\CalcBus_MarkupCompile.lref
+C:\Users\julio\OneDrive\Documents\CalcBus\CalcBus\obj\Release\Flexivel.baml
+C:\Users\julio\OneDrive\Documents\CalcBus\CalcBus\obj\Release\MainWindow.baml
+C:\Users\julio\OneDrive\Documents\CalcBus\CalcBus\obj\Release\Sobre.baml
+C:\Users\julio\OneDrive\Documents\CalcBus\CalcBus\obj\Release\Temp.baml
+C:\Users\julio\OneDrive\Documents\CalcBus\CalcBus\obj\Release\CalcBus.g.resources
+C:\Users\julio\OneDrive\Documents\CalcBus\CalcBus\obj\Release\CalcBus.Properties.Resources.resources
+C:\Users\julio\OneDrive\Documents\CalcBus\CalcBus\obj\Release\CalcBus.csproj.GenerateResource.Cache
+C:\Users\julio\OneDrive\Documents\CalcBus\CalcBus\obj\Release\CalcBus.exe.manifest
+C:\Users\julio\OneDrive\Documents\CalcBus\CalcBus\obj\Release\CalcBus.application
+C:\Users\julio\Documents\Informach - Núcleo de TI\CalcBus\CalcBus\bin\Release\CalcBus.exe.config
+C:\Users\julio\Documents\Informach - Núcleo de TI\CalcBus\CalcBus\obj\Release\CalcBus.exe
+C:\Users\julio\Documents\Informach - Núcleo de TI\CalcBus\CalcBus\obj\Release\CalcBus.pdb
+C:\Users\julio\Documents\Informach - Núcleo de TI\CalcBus\CalcBus\bin\Release\Database\DBCalcBus.sdf
+C:\Users\julio\Documents\Informach - Núcleo de TI\CalcBus\CalcBus\bin\Release\CalcBus.exe.manifest
+C:\Users\julio\Documents\Informach - Núcleo de TI\CalcBus\CalcBus\bin\Release\CalcBus.application
+C:\Users\julio\Documents\Informach - Núcleo de TI\CalcBus\CalcBus\bin\Release\CalcBus.exe
+C:\Users\julio\Documents\Informach - Núcleo de TI\CalcBus\CalcBus\bin\Release\CalcBus.pdb
+C:\Users\julio\Documents\Informach - Núcleo de TI\CalcBus\CalcBus\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\julio\Documents\Informach - Núcleo de TI\CalcBus\CalcBus\bin\Release\WPFToolkit.Extended.dll
+C:\Users\julio\Documents\Informach - Núcleo de TI\CalcBus\CalcBus\obj\Release\CalcBus.csprojResolveAssemblyReference.cache
+C:\Users\julio\Documents\Informach - Núcleo de TI\CalcBus\CalcBus\obj\Release\Flexivel.g.cs
+C:\Users\julio\Documents\Informach - Núcleo de TI\CalcBus\CalcBus\obj\Release\MainWindow.g.cs
+C:\Users\julio\Documents\Informach - Núcleo de TI\CalcBus\CalcBus\obj\Release\Sobre.g.cs
+C:\Users\julio\Documents\Informach - Núcleo de TI\CalcBus\CalcBus\obj\Release\Temp.g.cs
+C:\Users\julio\Documents\Informach - Núcleo de TI\CalcBus\CalcBus\obj\Release\App.g.cs
+C:\Users\julio\Documents\Informach - Núcleo de TI\CalcBus\CalcBus\obj\Release\CalcBus_Content.g.cs
+C:\Users\julio\Documents\Informach - Núcleo de TI\CalcBus\CalcBus\obj\Release\CalcBus_MarkupCompile.cache
+C:\Users\julio\Documents\Informach - Núcleo de TI\CalcBus\CalcBus\obj\Release\CalcBus_MarkupCompile.lref
+C:\Users\julio\Documents\Informach - Núcleo de TI\CalcBus\CalcBus\obj\Release\Flexivel.baml
+C:\Users\julio\Documents\Informach - Núcleo de TI\CalcBus\CalcBus\obj\Release\MainWindow.baml
+C:\Users\julio\Documents\Informach - Núcleo de TI\CalcBus\CalcBus\obj\Release\Sobre.baml
+C:\Users\julio\Documents\Informach - Núcleo de TI\CalcBus\CalcBus\obj\Release\Temp.baml
+C:\Users\julio\Documents\Informach - Núcleo de TI\CalcBus\CalcBus\obj\Release\CalcBus.g.resources
+C:\Users\julio\Documents\Informach - Núcleo de TI\CalcBus\CalcBus\obj\Release\CalcBus.Properties.Resources.resources
+C:\Users\julio\Documents\Informach - Núcleo de TI\CalcBus\CalcBus\obj\Release\CalcBus.csproj.GenerateResource.Cache
+C:\Users\julio\Documents\Informach - Núcleo de TI\CalcBus\CalcBus\obj\Release\CalcBus.exe.manifest
+C:\Users\julio\Documents\Informach - Núcleo de TI\CalcBus\CalcBus\obj\Release\CalcBus.application
+F:\Desenvolvimento\CalcBus\CalcBus\obj\Release\CalcBus.csprojResolveAssemblyReference.cache
+F:\Desenvolvimento\CalcBus\CalcBus\obj\Release\Flexivel.g.cs
+F:\Desenvolvimento\CalcBus\CalcBus\obj\Release\MainWindow.g.cs
+F:\Desenvolvimento\CalcBus\CalcBus\obj\Release\Sobre.g.cs
+F:\Desenvolvimento\CalcBus\CalcBus\obj\Release\Temp.g.cs
+F:\Desenvolvimento\CalcBus\CalcBus\obj\Release\App.g.cs
+F:\Desenvolvimento\CalcBus\CalcBus\obj\Release\CalcBus_Content.g.cs
+F:\Desenvolvimento\CalcBus\CalcBus\obj\Release\CalcBus_MarkupCompile.cache
+F:\Desenvolvimento\CalcBus\CalcBus\obj\Release\CalcBus_MarkupCompile.lref
+F:\Desenvolvimento\CalcBus\CalcBus\obj\Release\Flexivel.baml
+F:\Desenvolvimento\CalcBus\CalcBus\obj\Release\MainWindow.baml
+F:\Desenvolvimento\CalcBus\CalcBus\obj\Release\Sobre.baml
+F:\Desenvolvimento\CalcBus\CalcBus\obj\Release\Temp.baml
+F:\Desenvolvimento\CalcBus\CalcBus\obj\Release\CalcBus.g.resources
+F:\Desenvolvimento\CalcBus\CalcBus\obj\Release\CalcBus.Properties.Resources.resources
+F:\Desenvolvimento\CalcBus\CalcBus\obj\Release\CalcBus.csproj.GenerateResource.Cache
+F:\Desenvolvimento\CalcBus\CalcBus\obj\Release\CalcBus.exe
+F:\Desenvolvimento\CalcBus\CalcBus\obj\Release\CalcBus.pdb
+E:\Desenvolvimento\CalcBus\CalcBus\obj\Release\CalcBus.csprojAssemblyReference.cache
+E:\Desenvolvimento\CalcBus\CalcBus\obj\Release\Flexivel.g.cs
+E:\Desenvolvimento\CalcBus\CalcBus\obj\Release\MainWindow.g.cs
+E:\Desenvolvimento\CalcBus\CalcBus\obj\Release\Sobre.g.cs
+E:\Desenvolvimento\CalcBus\CalcBus\obj\Release\Temp.g.cs
+E:\Desenvolvimento\CalcBus\CalcBus\obj\Release\App.g.cs
+E:\Desenvolvimento\CalcBus\CalcBus\obj\Release\CalcBus_Content.g.cs
+E:\Desenvolvimento\CalcBus\CalcBus\obj\Release\CalcBus_MarkupCompile.cache
+E:\Desenvolvimento\CalcBus\CalcBus\obj\Release\CalcBus_MarkupCompile.lref
+E:\Desenvolvimento\CalcBus\CalcBus\obj\Release\Flexivel.baml
+E:\Desenvolvimento\CalcBus\CalcBus\obj\Release\MainWindow.baml
+E:\Desenvolvimento\CalcBus\CalcBus\obj\Release\Sobre.baml
+E:\Desenvolvimento\CalcBus\CalcBus\obj\Release\Temp.baml
+E:\Desenvolvimento\CalcBus\CalcBus\obj\Release\CalcBus.g.resources
+E:\Desenvolvimento\CalcBus\CalcBus\obj\Release\CalcBus.Properties.Resources.resources
+E:\Desenvolvimento\CalcBus\CalcBus\obj\Release\CalcBus.csproj.GenerateResource.cache
+E:\Desenvolvimento\CalcBus\CalcBus\obj\Release\CalcBus.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento\CalcBus\CalcBus\obj\Release\CalcBus.exe
+E:\Desenvolvimento\CalcBus\CalcBus\obj\Release\CalcBus.pdb

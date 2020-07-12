@@ -1,0 +1,175 @@
+C:\Users\hjd286\Google Drive\Softwares\CalcBus 1.0\CalcBus\CalcBus\bin\Debug\CalcBus.exe.config
+C:\Users\hjd286\Google Drive\Softwares\CalcBus 1.0\CalcBus\CalcBus\bin\Debug\Database\BDCalcBus.sdf
+C:\Users\hjd286\Google Drive\Softwares\CalcBus 1.0\CalcBus\CalcBus\bin\Debug\CalcBus.exe
+C:\Users\hjd286\Google Drive\Softwares\CalcBus 1.0\CalcBus\CalcBus\bin\Debug\CalcBus.pdb
+C:\Users\hjd286\Google Drive\Softwares\CalcBus 1.0\CalcBus\CalcBus\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\hjd286\Google Drive\Softwares\CalcBus 1.0\CalcBus\CalcBus\obj\Debug\CalcBus.csprojResolveAssemblyReference.cache
+C:\Users\hjd286\Google Drive\Softwares\CalcBus 1.0\CalcBus\CalcBus\obj\Debug\MainWindow.g.cs
+C:\Users\hjd286\Google Drive\Softwares\CalcBus 1.0\CalcBus\CalcBus\obj\Debug\App.g.cs
+C:\Users\hjd286\Google Drive\Softwares\CalcBus 1.0\CalcBus\CalcBus\obj\Debug\CalcBus_Content.g.cs
+C:\Users\hjd286\Google Drive\Softwares\CalcBus 1.0\CalcBus\CalcBus\obj\Debug\CalcBus_MarkupCompile.cache
+C:\Users\hjd286\Google Drive\Softwares\CalcBus 1.0\CalcBus\CalcBus\obj\Debug\CalcBus_MarkupCompile.lref
+C:\Users\hjd286\Google Drive\Softwares\CalcBus 1.0\CalcBus\CalcBus\obj\Debug\MainWindow.baml
+C:\Users\hjd286\Google Drive\Softwares\CalcBus 1.0\CalcBus\CalcBus\obj\Debug\CalcBus.g.resources
+C:\Users\hjd286\Google Drive\Softwares\CalcBus 1.0\CalcBus\CalcBus\obj\Debug\CalcBus.Properties.Resources.resources
+C:\Users\hjd286\Google Drive\Softwares\CalcBus 1.0\CalcBus\CalcBus\obj\Debug\CalcBus.csproj.GenerateResource.Cache
+C:\Users\hjd286\Google Drive\Softwares\CalcBus 1.0\CalcBus\CalcBus\obj\Debug\CalcBus.exe
+C:\Users\hjd286\Google Drive\Softwares\CalcBus 1.0\CalcBus\CalcBus\obj\Debug\CalcBus.pdb
+C:\Users\hjd286\Google Drive\Softwares\CalcBus 1.0\CalcBus\CalcBus\bin\Debug\WPF.MDI.dll
+C:\Users\hjd286\Google Drive\Softwares\CalcBus 1.0\CalcBus\CalcBus\obj\Debug\Ampacidade.g.cs
+C:\Users\hjd286\Google Drive\Softwares\CalcBus 1.0\CalcBus\CalcBus\obj\Debug\Ampacidade.baml
+C:\Users\Julio Cesar\Desktop\CalcBus_1.0-2016-07-12\CalcBus 1.0\CalcBus\CalcBus\CalcBus\bin\Debug\CalcBus.exe.config
+C:\Users\Julio Cesar\Desktop\CalcBus_1.0-2016-07-12\CalcBus 1.0\CalcBus\CalcBus\CalcBus\obj\Debug\CalcBus.exe
+C:\Users\Julio Cesar\Desktop\CalcBus_1.0-2016-07-12\CalcBus 1.0\CalcBus\CalcBus\CalcBus\obj\Debug\CalcBus.pdb
+C:\Users\Julio Cesar\Desktop\CalcBus_1.0-2016-07-12\CalcBus 1.0\CalcBus\CalcBus\CalcBus\bin\Debug\Database\BDCalcBus.sdf
+C:\Users\Julio Cesar\Desktop\CalcBus_1.0-2016-07-12\CalcBus 1.0\CalcBus\CalcBus\CalcBus\bin\Debug\CalcBus.exe
+C:\Users\Julio Cesar\Desktop\CalcBus_1.0-2016-07-12\CalcBus 1.0\CalcBus\CalcBus\CalcBus\bin\Debug\CalcBus.pdb
+C:\Users\Julio Cesar\Desktop\CalcBus_1.0-2016-07-12\CalcBus 1.0\CalcBus\CalcBus\CalcBus\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Julio Cesar\Desktop\CalcBus_1.0-2016-07-12\CalcBus 1.0\CalcBus\CalcBus\CalcBus\obj\Debug\CalcBus.csprojResolveAssemblyReference.cache
+C:\Users\Julio Cesar\Desktop\CalcBus_1.0-2016-07-12\CalcBus 1.0\CalcBus\CalcBus\CalcBus\obj\Debug\Ampacidade.g.cs
+C:\Users\Julio Cesar\Desktop\CalcBus_1.0-2016-07-12\CalcBus 1.0\CalcBus\CalcBus\CalcBus\obj\Debug\MainWindow.g.cs
+C:\Users\Julio Cesar\Desktop\CalcBus_1.0-2016-07-12\CalcBus 1.0\CalcBus\CalcBus\CalcBus\obj\Debug\App.g.cs
+C:\Users\Julio Cesar\Desktop\CalcBus_1.0-2016-07-12\CalcBus 1.0\CalcBus\CalcBus\CalcBus\obj\Debug\CalcBus_Content.g.cs
+C:\Users\Julio Cesar\Desktop\CalcBus_1.0-2016-07-12\CalcBus 1.0\CalcBus\CalcBus\CalcBus\obj\Debug\CalcBus_MarkupCompile.cache
+C:\Users\Julio Cesar\Desktop\CalcBus_1.0-2016-07-12\CalcBus 1.0\CalcBus\CalcBus\CalcBus\obj\Debug\CalcBus_MarkupCompile.lref
+C:\Users\Julio Cesar\Desktop\CalcBus_1.0-2016-07-12\CalcBus 1.0\CalcBus\CalcBus\CalcBus\obj\Debug\Ampacidade.baml
+C:\Users\Julio Cesar\Desktop\CalcBus_1.0-2016-07-12\CalcBus 1.0\CalcBus\CalcBus\CalcBus\obj\Debug\MainWindow.baml
+C:\Users\Julio Cesar\Desktop\CalcBus_1.0-2016-07-12\CalcBus 1.0\CalcBus\CalcBus\CalcBus\obj\Debug\CalcBus.g.resources
+C:\Users\Julio Cesar\Desktop\CalcBus_1.0-2016-07-12\CalcBus 1.0\CalcBus\CalcBus\CalcBus\obj\Debug\CalcBus.Properties.Resources.resources
+C:\Users\Julio Cesar\Desktop\CalcBus_1.0-2016-07-12\CalcBus 1.0\CalcBus\CalcBus\CalcBus\obj\Debug\CalcBus.csproj.GenerateResource.Cache
+C:\Users\Julio Cesar\Desktop\CalcBus_1.0-2016-07-12\CalcBus 1.0\CalcBus\CalcBus\CalcBus\bin\Debug\WPF.MDI.dll
+C:\Users\Julio Cesar\Desktop\CalcBus_1.0-2016-07-12\CalcBus 1.0\CalcBus\CalcBus\CalcBus\obj\Debug\BarramentoFlexivel.g.cs
+C:\Users\Julio Cesar\Desktop\CalcBus_1.0-2016-07-12\CalcBus 1.0\CalcBus\CalcBus\CalcBus\obj\Debug\BarramentoFlexivel.baml
+C:\Users\hjd286\Desktop\CalcBus-2016-07-13\CalcBus\CalcBus\CalcBus\bin\Debug\CalcBus.exe.config
+C:\Users\hjd286\Desktop\CalcBus-2016-07-13\CalcBus\CalcBus\CalcBus\obj\Debug\CalcBus.exe
+C:\Users\hjd286\Desktop\CalcBus-2016-07-13\CalcBus\CalcBus\CalcBus\obj\Debug\CalcBus.pdb
+C:\Users\hjd286\Desktop\CalcBus-2016-07-13\CalcBus\CalcBus\CalcBus\bin\Debug\Database\BDCalcBus.sdf
+C:\Users\hjd286\Desktop\CalcBus-2016-07-13\CalcBus\CalcBus\CalcBus\bin\Debug\CalcBus.exe
+C:\Users\hjd286\Desktop\CalcBus-2016-07-13\CalcBus\CalcBus\CalcBus\bin\Debug\CalcBus.pdb
+C:\Users\hjd286\Desktop\CalcBus-2016-07-13\CalcBus\CalcBus\CalcBus\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\hjd286\Desktop\CalcBus-2016-07-13\CalcBus\CalcBus\CalcBus\bin\Debug\WPF.MDI.dll
+C:\Users\hjd286\Desktop\CalcBus-2016-07-13\CalcBus\CalcBus\CalcBus\obj\Debug\CalcBus.csprojResolveAssemblyReference.cache
+C:\Users\hjd286\Desktop\CalcBus-2016-07-13\CalcBus\CalcBus\CalcBus\obj\Debug\Ampacidade.g.cs
+C:\Users\hjd286\Desktop\CalcBus-2016-07-13\CalcBus\CalcBus\CalcBus\obj\Debug\BarramentoFlexivel.g.cs
+C:\Users\hjd286\Desktop\CalcBus-2016-07-13\CalcBus\CalcBus\CalcBus\obj\Debug\MainWindow.g.cs
+C:\Users\hjd286\Desktop\CalcBus-2016-07-13\CalcBus\CalcBus\CalcBus\obj\Debug\App.g.cs
+C:\Users\hjd286\Desktop\CalcBus-2016-07-13\CalcBus\CalcBus\CalcBus\obj\Debug\CalcBus_Content.g.cs
+C:\Users\hjd286\Desktop\CalcBus-2016-07-13\CalcBus\CalcBus\CalcBus\obj\Debug\CalcBus_MarkupCompile.cache
+C:\Users\hjd286\Desktop\CalcBus-2016-07-13\CalcBus\CalcBus\CalcBus\obj\Debug\CalcBus_MarkupCompile.lref
+C:\Users\hjd286\Desktop\CalcBus-2016-07-13\CalcBus\CalcBus\CalcBus\obj\Debug\Ampacidade.baml
+C:\Users\hjd286\Desktop\CalcBus-2016-07-13\CalcBus\CalcBus\CalcBus\obj\Debug\BarramentoFlexivel.baml
+C:\Users\hjd286\Desktop\CalcBus-2016-07-13\CalcBus\CalcBus\CalcBus\obj\Debug\MainWindow.baml
+C:\Users\hjd286\Desktop\CalcBus-2016-07-13\CalcBus\CalcBus\CalcBus\obj\Debug\CalcBus.g.resources
+C:\Users\hjd286\Desktop\CalcBus-2016-07-13\CalcBus\CalcBus\CalcBus\obj\Debug\CalcBus.Properties.Resources.resources
+C:\Users\hjd286\Desktop\CalcBus-2016-07-13\CalcBus\CalcBus\CalcBus\obj\Debug\CalcBus.csproj.GenerateResource.Cache
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\bin\Debug\CalcBus.exe.config
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\obj\Debug\CalcBus.exe
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\obj\Debug\CalcBus.pdb
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\bin\Debug\CalcBus.exe
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\bin\Debug\CalcBus.pdb
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\bin\Debug\WPF.MDI.dll
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\obj\Debug\CalcBus.csprojResolveAssemblyReference.cache
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\obj\Debug\Ampacidade.g.cs
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\obj\Debug\BarramentoFlexivel.g.cs
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\obj\Debug\MainWindow.g.cs
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\obj\Debug\App.g.cs
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\obj\Debug\CalcBus_Content.g.cs
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\obj\Debug\CalcBus_MarkupCompile.cache
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\obj\Debug\CalcBus_MarkupCompile.lref
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\obj\Debug\Ampacidade.baml
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\obj\Debug\BarramentoFlexivel.baml
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\obj\Debug\MainWindow.baml
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\obj\Debug\CalcBus.g.resources
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\obj\Debug\CalcBus.Properties.Resources.resources
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\obj\Debug\CalcBus.csproj.GenerateResource.Cache
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\bin\Debug\Database\DBCalcBus.sdf
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\obj\Debug\Sobre.g.cs
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\obj\Debug\Sobre.baml
+C:\Users\Julio Cesar\Desktop\CalcBus 1.0 14-07 - 17-01\CalcBus 1.0\CalcBus\bin\Debug\CalcBus.exe.config
+C:\Users\Julio Cesar\Desktop\CalcBus 1.0 14-07 - 17-01\CalcBus 1.0\CalcBus\obj\Debug\CalcBus.exe
+C:\Users\Julio Cesar\Desktop\CalcBus 1.0 14-07 - 17-01\CalcBus 1.0\CalcBus\obj\Debug\CalcBus.pdb
+C:\Users\Julio Cesar\Desktop\CalcBus 1.0 14-07 - 17-01\CalcBus 1.0\CalcBus\bin\Debug\Database\DBCalcBus.sdf
+C:\Users\Julio Cesar\Desktop\CalcBus 1.0 14-07 - 17-01\CalcBus 1.0\CalcBus\bin\Debug\CalcBus.exe
+C:\Users\Julio Cesar\Desktop\CalcBus 1.0 14-07 - 17-01\CalcBus 1.0\CalcBus\bin\Debug\CalcBus.pdb
+C:\Users\Julio Cesar\Desktop\CalcBus 1.0 14-07 - 17-01\CalcBus 1.0\CalcBus\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Julio Cesar\Desktop\CalcBus 1.0 14-07 - 17-01\CalcBus 1.0\CalcBus\bin\Debug\WPF.MDI.dll
+C:\Users\Julio Cesar\Desktop\CalcBus 1.0 14-07 - 17-01\CalcBus 1.0\CalcBus\obj\Debug\CalcBus.csprojResolveAssemblyReference.cache
+C:\Users\Julio Cesar\Desktop\CalcBus 1.0 14-07 - 17-01\CalcBus 1.0\CalcBus\obj\Debug\Ampacidade.g.cs
+C:\Users\Julio Cesar\Desktop\CalcBus 1.0 14-07 - 17-01\CalcBus 1.0\CalcBus\obj\Debug\BarramentoFlexivel.g.cs
+C:\Users\Julio Cesar\Desktop\CalcBus 1.0 14-07 - 17-01\CalcBus 1.0\CalcBus\obj\Debug\MainWindow.g.cs
+C:\Users\Julio Cesar\Desktop\CalcBus 1.0 14-07 - 17-01\CalcBus 1.0\CalcBus\obj\Debug\Sobre.g.cs
+C:\Users\Julio Cesar\Desktop\CalcBus 1.0 14-07 - 17-01\CalcBus 1.0\CalcBus\obj\Debug\App.g.cs
+C:\Users\Julio Cesar\Desktop\CalcBus 1.0 14-07 - 17-01\CalcBus 1.0\CalcBus\obj\Debug\CalcBus_Content.g.cs
+C:\Users\Julio Cesar\Desktop\CalcBus 1.0 14-07 - 17-01\CalcBus 1.0\CalcBus\obj\Debug\CalcBus_MarkupCompile.cache
+C:\Users\Julio Cesar\Desktop\CalcBus 1.0 14-07 - 17-01\CalcBus 1.0\CalcBus\obj\Debug\CalcBus_MarkupCompile.lref
+C:\Users\Julio Cesar\Desktop\CalcBus 1.0 14-07 - 17-01\CalcBus 1.0\CalcBus\obj\Debug\Ampacidade.baml
+C:\Users\Julio Cesar\Desktop\CalcBus 1.0 14-07 - 17-01\CalcBus 1.0\CalcBus\obj\Debug\BarramentoFlexivel.baml
+C:\Users\Julio Cesar\Desktop\CalcBus 1.0 14-07 - 17-01\CalcBus 1.0\CalcBus\obj\Debug\MainWindow.baml
+C:\Users\Julio Cesar\Desktop\CalcBus 1.0 14-07 - 17-01\CalcBus 1.0\CalcBus\obj\Debug\Sobre.baml
+C:\Users\Julio Cesar\Desktop\CalcBus 1.0 14-07 - 17-01\CalcBus 1.0\CalcBus\obj\Debug\CalcBus.g.resources
+C:\Users\Julio Cesar\Desktop\CalcBus 1.0 14-07 - 17-01\CalcBus 1.0\CalcBus\obj\Debug\CalcBus.Properties.Resources.resources
+C:\Users\Julio Cesar\Desktop\CalcBus 1.0 14-07 - 17-01\CalcBus 1.0\CalcBus\obj\Debug\CalcBus.csproj.GenerateResource.Cache
+C:\Users\Julio Cesar\Desktop\CalcBus 1.0 14-07 - 17-01\CalcBus 1.0\CalcBus\bin\Debug\CalcBus.exe.manifest
+C:\Users\Julio Cesar\Desktop\CalcBus 1.0 14-07 - 17-01\CalcBus 1.0\CalcBus\bin\Debug\CalcBus.application
+C:\Users\Julio Cesar\Desktop\CalcBus 1.0 14-07 - 17-01\CalcBus 1.0\CalcBus\obj\Debug\CalcBus.exe.manifest
+C:\Users\Julio Cesar\Desktop\CalcBus 1.0 14-07 - 17-01\CalcBus 1.0\CalcBus\obj\Debug\CalcBus.application
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\bin\Debug\CalcBus.exe.manifest
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\bin\Debug\CalcBus.application
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\obj\Debug\CalcBus.exe.manifest
+C:\Users\hjd286\Desktop\CalcBus 1.0\CalcBus\obj\Debug\CalcBus.application
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\bin\Debug\CalcBus.exe.config
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\obj\Debug\CalcBus.exe
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\obj\Debug\CalcBus.pdb
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\bin\Debug\Database\DBCalcBus.sdf
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\bin\Debug\CalcBus.exe.manifest
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\bin\Debug\CalcBus.application
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\bin\Debug\CalcBus.exe
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\bin\Debug\CalcBus.pdb
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\obj\Debug\CalcBus.csprojResolveAssemblyReference.cache
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\obj\Debug\MainWindow.g.cs
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\obj\Debug\Sobre.g.cs
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\obj\Debug\App.g.cs
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\obj\Debug\CalcBus_Content.g.cs
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\obj\Debug\CalcBus_MarkupCompile.cache
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\obj\Debug\CalcBus_MarkupCompile.lref
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\obj\Debug\MainWindow.baml
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\obj\Debug\Sobre.baml
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\obj\Debug\CalcBus.g.resources
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\obj\Debug\CalcBus.Properties.Resources.resources
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\obj\Debug\CalcBus.csproj.GenerateResource.Cache
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\obj\Debug\CalcBus.exe.manifest
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\obj\Debug\CalcBus.application
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\obj\Debug\Flexivel.g.cs
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\obj\Debug\Flexivel.baml
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\obj\Debug\Temp.g.cs
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\obj\Debug\Temp.baml
+H:\CalcBus\CalcBus\bin\Debug\CalcBus.exe.config
+H:\CalcBus\CalcBus\obj\Debug\CalcBus.exe
+H:\CalcBus\CalcBus\obj\Debug\CalcBus.pdb
+H:\CalcBus\CalcBus\bin\Debug\Database\DBCalcBus.sdf
+H:\CalcBus\CalcBus\bin\Debug\CalcBus.exe.manifest
+H:\CalcBus\CalcBus\bin\Debug\CalcBus.application
+H:\CalcBus\CalcBus\bin\Debug\CalcBus.exe
+H:\CalcBus\CalcBus\bin\Debug\CalcBus.pdb
+H:\CalcBus\CalcBus\bin\Debug\System.Data.SqlServerCe.dll
+H:\CalcBus\CalcBus\obj\Debug\CalcBus.csprojResolveAssemblyReference.cache
+H:\CalcBus\CalcBus\obj\Debug\Flexivel.g.cs
+H:\CalcBus\CalcBus\obj\Debug\MainWindow.g.cs
+H:\CalcBus\CalcBus\obj\Debug\Sobre.g.cs
+H:\CalcBus\CalcBus\obj\Debug\Temp.g.cs
+H:\CalcBus\CalcBus\obj\Debug\App.g.cs
+H:\CalcBus\CalcBus\obj\Debug\CalcBus_Content.g.cs
+H:\CalcBus\CalcBus\obj\Debug\CalcBus_MarkupCompile.cache
+H:\CalcBus\CalcBus\obj\Debug\CalcBus_MarkupCompile.lref
+H:\CalcBus\CalcBus\obj\Debug\Flexivel.baml
+H:\CalcBus\CalcBus\obj\Debug\MainWindow.baml
+H:\CalcBus\CalcBus\obj\Debug\Sobre.baml
+H:\CalcBus\CalcBus\obj\Debug\Temp.baml
+H:\CalcBus\CalcBus\obj\Debug\CalcBus.g.resources
+H:\CalcBus\CalcBus\obj\Debug\CalcBus.Properties.Resources.resources
+H:\CalcBus\CalcBus\obj\Debug\CalcBus.csproj.GenerateResource.Cache
+H:\CalcBus\CalcBus\obj\Debug\CalcBus.exe.manifest
+H:\CalcBus\CalcBus\obj\Debug\CalcBus.application
+C:\Users\Julio Cesar\Desktop\CalcBus\CalcBus\bin\Debug\WPFToolkit.Extended.dll
